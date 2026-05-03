@@ -1,0 +1,22 @@
+fastapi
+uvicorn
+sqlmodel
+asyncpg
+python-dotenv
+pydantic-settings
+pyjwt[crypto]
+passlib[bcrypt]
+redis
+alembic
+# Middleware
+slowapi
+elasticsearch[async]
+pyinstrument
+python-multipart
+# Background tasks
+celery[redis]
+Pillow
+minio
+# Sync DB for Celery
+psycopg2-binary
+sqlalchemy
