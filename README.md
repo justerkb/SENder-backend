@@ -4,8 +4,8 @@ A collaborative package delivery platform connecting travelers with senders for 
 
 ## 👥 Team
 
-| Name | Role |
-|------|------|
+| Name | Role | ID | 
+|------|------|------|
 | Yerkebulan Nurbossyn | Backend Engineer |  230103236
 | Arsen Dunesov | UX/UI Designer & Product Manager | 230103038
 | Nigmet Nazir | Frontend Engineer | 230103334
