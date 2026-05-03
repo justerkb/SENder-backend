@@ -1,6 +1,54 @@
 # PackageGo 📦
 
 A collaborative package delivery platform connecting travelers with senders for affordable international shipping.
+## 1. Topic Area
+**E-Commerce / Logistics / Sharing Economy**
+
+PackageGo operates at the intersection of package delivery and peer-to-peer marketplace platforms, enabling cost-effective international shipping through traveler networks.
+
+---
+
+## 2. Problem Statement
+
+**The Gap:** International shipping is expensive and slow. Traditional courier services charge high premiums, while travelers crossing borders frequently carry unused luggage space.
+
+**Who is Affected:** 
+- **Senders** who need affordable package delivery to other countries
+- **Travelers** with spare luggage capacity seeking additional income
+- **Developing markets** where courier services are limited or prohibitively expensive
+
+**Why It Matters:** International e-commerce and personal remittances require accessible delivery options. Current solutions exclude small businesses and individuals in cost-sensitive regions.
+
+---
+
+## 3. Proposed Solution
+
+PackageGo connects **senders** (people shipping packages) with **travelers** (people crossing borders with spare luggage) through a trusted marketplace platform.
+
+**How it works:**
+- Senders post packages with origin, destination, weight, and reward amount
+- Travelers browse available packages matching their travel route
+- Travelers accept packages and earn rewards upon successful delivery
+- Integrated review system builds trust and reputation
+- Real-time notifications track package status
+
+**Value Proposition:**
+- **For Senders:** 50-70% cheaper than courier services, flexible scheduling
+- **For Travelers:** Earn passive income while traveling, simple pickup/delivery
+- **For Platform:** Network effect—more travelers attract more senders and vice versa
+
+---
+
+## 4. Target Users
+
+| User Type | Description |
+|-----------|-------------|
+| **Senders** | E-commerce businesses, individual shippers, students sending packages home (age 18-55, primarily in developing economies) |
+| **Travelers** | Frequent international travelers, expats, digital nomads, business travelers (age 25-60, globally distributed) |
+| **Admins** | Platform operators managing disputes, verified travelers, package compliance |
+
+**Primary Markets:** Central Asia, Southeast Asia, Africa, Eastern Europe (regions with high travel-to-courier cost ratios)
+
 
 ## 👥 Team
 
